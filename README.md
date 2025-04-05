@@ -20,7 +20,7 @@ A simple Python-based port scanner that helps identify open ports on a specified
 1. Clone this repository or download the `port_scanner.py` script.
 
     ```bash
-    git clone https://github.com/the0ffs3c/port-scanner.git
+    git clone https://github.com/Directedchari0t/port-scanner.git
     cd port-scanner
     ```
 
